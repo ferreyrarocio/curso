@@ -1,2 +1,1 @@
-# curso
-este es un repositorio de prueba del modulo 2
+este proyecto es una prueba d como crear un repositorio y clonarlo desde github a la compu
